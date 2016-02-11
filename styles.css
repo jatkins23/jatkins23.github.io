@@ -27,10 +27,8 @@ ul {
 	list-style-type: none;
 	padding: 0;
 	display: inline;
-/*		position: fixed;*/
 	width: 80%;
-/*		margin: 0% 10% 10% 10%;
-*/		font: Roboto;
+	font: Roboto;
 }
 li {
 	float: left;
