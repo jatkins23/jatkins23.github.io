@@ -6,6 +6,10 @@ html {
 	background-size: cover;
 	font-family: 'Roboto', sans-serif;
 }
+body {
+	background-image: "Grand_Canyon_Background_Photo.jpg";
+}
+
 h1 {
 	margin-left: 0%;
 	margin-right: 0%;
