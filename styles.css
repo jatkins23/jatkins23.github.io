@@ -46,11 +46,6 @@ li a:hover {
 	background-color: rgba(0, 0, 0, 0);
 	color: red;
 }
-.active {
-	background-color: #4CAF50;
-	color: white;
-}
-
 .bio {
 	margin-top: 20%;
 	margin-right: 30%;
