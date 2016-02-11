@@ -81,9 +81,9 @@ li a:hover {
 div.resume-section h6 {
 	font-size: 12pt;
 	margin-bottom: 0%;
-	margin-top: 0px;
+	margin-top: 0;
 	margin-left: -12px;
-	margin-bottom: 0;
+	margin-bottom: 12px;
 	padding: 0;
 }
 
@@ -98,13 +98,17 @@ div.resume-section h5 {
 	margin-left: -12px;
 }
 
+div.work-experience-section ul {
+	list-style-type: circle; 
+}
+
 div.work-experience-section li {
 	margin-left: 4pt;
-	type: circle; 
 }
 
 div.work-experience-section {
 	font-size: 9pt;
+	margin-top: 0;
 }
 
 div.work-experience-section h5 {
