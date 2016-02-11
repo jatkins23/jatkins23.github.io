@@ -4,7 +4,7 @@ Please visit <a href="jatkins23.github.io">jatkins23.github.io</a>
 
 Everything has been correctly implemented as far as I can tell. It adheres to all guidelines and causes no errors. I would obviously like to spend more time fine-tuning the formatting and styling but it fits all guidelines.
 
-Note: the original image file name was capitalized on my machine but have changed it to lowercase both on my computer and within the code, but on Github, it still appears as capitalized. I hope this is okay. Thanks
+Note: the original image file name was capitalized on my machine but have changed it to lowercase both on my computer and within the code, but on Github, it still appears as capitalized. I hope this is okay. Thanks. This turned into an hour-long issue. Lesson learned. No clue if it is actually named correctly now but it seems to work. Hope this isn't too much off.
 
 I have collaborated with no one except señor Google.
 
