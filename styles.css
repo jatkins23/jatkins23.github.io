@@ -1,0 +1,72 @@
+html {
+	background: url(Grand_Canyon_Background_Photo.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+	background-size: cover;
+	font-family: 'Roboto', sans-serif;
+}
+h1 {
+	margin-left: 0%;
+	margin-right: 0%;
+	text-align: center;
+	background-color: rgba(170, 170, 170, 1)
+}
+#navbar {
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	width: 100%;
+
+}
+ul {
+	list-style-type: none;
+	padding: 0;
+	display: inline;
+/*		position: fixed;*/
+	width: 80%;
+/*		margin: 0% 10% 10% 10%;
+*/		font: Roboto;
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+	color: black;
+	font: Roboto;
+	background-color: rgba(255, 255, 255, .6);
+	padding: 16px 16px 16px 16px;
+	text-decoration: none;
+	border-style: soild;
+	border
+}
+li a:hover {
+	background-color: rgba(0, 0, 0, 0);
+	color: red;
+}
+.active {
+	background-color: #4CAF50;
+	color: white;
+}
+
+p {
+}
+
+.bio {
+	margin-top: 20%;
+	margin-right: 30%;
+	margin-bottom: 0;
+	font-size: 14pt;
+	height: 100%;
+
+	color: rgba(84, 165, 214, 1);
+	background-color: rgba(85, 85, 85, .4)
+}
+
+#bio-header {
+	font-size: 70pt;
+	color: rgb(215, 215, 215);
+	text-decoration: border;
+	margin-top: 0;
+}
