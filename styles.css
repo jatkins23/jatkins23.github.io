@@ -49,9 +49,6 @@ li a:hover {
 	color: white;
 }
 
-p {
-}
-
 .bio {
 	margin-top: 20%;
 	margin-right: 30%;
@@ -68,4 +65,56 @@ p {
 	color: rgb(215, 215, 215);
 	text-decoration: border;
 	margin-top: 0;
+}
+
+.resume-section {
+	margin-right: 30%;
+	margin-left: 12px;
+	font-size: 9pt;
+}
+
+.resume-school-section {
+	margin-left: 14px;
+	margin-top: 0px;
+}
+
+div.resume-section h6 {
+	font-size: 12pt;
+	margin-bottom: 0%;
+	margin-top: 0px;
+	margin-left: -12px;
+	margin-bottom: 0;
+	padding: 0;
+}
+
+div.resume-section p {
+	margin: 4px;
+	margin-bottom: 8px;
+}
+
+div.resume-section h5 {
+	font-size: 14pt;
+	margin-bottom: 4px;
+	margin-left: -12px;
+}
+
+div.work-experience-section li {
+	margin-left: 4pt;
+	type: circle; 
+}
+
+div.work-experience-section {
+	font-size: 9pt;
+}
+
+div.work-experience-section h5 {
+	font-size: 10pt;
+	margin-left: 0;
+}
+
+.date {
+		float: right;
+		margin-right: 0%;
+		margin-left: 0%;
+	}
 }
