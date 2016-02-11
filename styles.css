@@ -38,8 +38,7 @@ li a {
 	background-color: rgba(255, 255, 255, .6);
 	padding: 16px 16px 16px 16px;
 	text-decoration: none;
-	border-style: soild;
-	border
+	border: white;
 }
 li a:hover {
 	background-color: rgba(0, 0, 0, 0);
